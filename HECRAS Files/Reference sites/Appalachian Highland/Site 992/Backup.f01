@@ -1,0 +1,18 @@
+Flow Title=Site 992 Flow data
+Program Version=5.07
+Number of Profiles= 1 
+Profile Names=PF 1
+River Rch & RM=stevens creek,RiverCL         ,2257.55 
+      10
+Boundary for River Rch & Prof#=stevens creek,RiverCL         , 1 
+Up Type= 0 
+Dn Type= 3 
+Dn Slope=0.0003
+DSS Import StartDate=
+DSS Import StartTime=
+DSS Import EndDate=
+DSS Import EndTime=
+DSS Import GetInterval= 0 
+DSS Import Interval=
+DSS Import GetPeak= 0 
+DSS Import FillOption= 0 
