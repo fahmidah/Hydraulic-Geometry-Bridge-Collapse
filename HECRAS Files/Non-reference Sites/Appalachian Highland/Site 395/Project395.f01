@@ -1,0 +1,18 @@
+Flow Title=Flow data
+Program Version=5.07
+Number of Profiles= 1 
+Profile Names=PF 1
+River Rch & RM=monocacy river,RiverCL         ,1340.13 
+     600
+Boundary for River Rch & Prof#=monocacy river,RiverCL         , 1 
+Up Type= 0 
+Dn Type= 3 
+Dn Slope=0.0005
+DSS Import StartDate=
+DSS Import StartTime=
+DSS Import EndDate=
+DSS Import EndTime=
+DSS Import GetInterval= 0 
+DSS Import Interval=
+DSS Import GetPeak= 0 
+DSS Import FillOption= 0 
